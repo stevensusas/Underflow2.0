@@ -1,0 +1,2 @@
+database:
+  uri: "mongodb+srv://user:user@underflow2.n5sya.mongodb.net/?retryWrites=true&w=majority&appName=Underflow2"
